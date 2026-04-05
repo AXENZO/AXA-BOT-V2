@@ -1,0 +1,23 @@
+{
+  "name": "axa-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pair.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "axios": "^1.14.0",
+    "chatgpt": "^5.2.5",
+    "file-type": "^21.3.4",
+    "form-data": "^4.0.5",
+    "sharp": "^0.34.5",
+    "yt-search": "^2.13.1",
+    "ytdl-core": "^4.11.5"
+  }
+}
