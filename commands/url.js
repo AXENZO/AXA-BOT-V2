@@ -3,7 +3,7 @@ const axios = require("axios");
 const FormData = require("form-data"); // <-- important!
 const { downloadContentFromMessage } = require("@whiskeysockets/baileys");
 
-const IMGBB_API_KEY = "bd1392e73765f3d56c723de632e66ad1"; // get free key from https://api.imgbb.com/
+const IMGBB_API_KEY = ""; // get free key from https://api.imgbb.com/
 
 module.exports = {
   name: "url",
