@@ -17,7 +17,7 @@ module.exports = {
         },
         {
           headers: {
-            "Authorization": "Bearer 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",
+            "Authorization": "Bearer API KEY",
             "Content-Type": "application/json"
           }
         }
